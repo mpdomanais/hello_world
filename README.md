@@ -1,3 +1,2 @@
 # hello_world
-sample repository
-testing
+sample rechecking
